@@ -1,5 +1,5 @@
-git add .
+"git add .
 git push 
 git commit -m
 echo 
-and many more commands
+and many more commands"
