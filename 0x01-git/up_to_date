@@ -2,5 +2,5 @@
 git push 
 git commit -m
 echo 
-git pill
+git pull
 and many more commands"
