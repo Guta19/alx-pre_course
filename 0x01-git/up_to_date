@@ -1,1 +1,5 @@
-
+git add .
+git push 
+git commit -m
+echo 
+and many more commands
